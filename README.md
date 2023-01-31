@@ -5,8 +5,8 @@
 - 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/KelvenKlim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvenKlim&show_icons-true&theme=dracula&include_all_commits=truelcount_private=true"/> 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenKlim&layout=compact&langs_count=16&theme=dracula">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=KelvenKlim&show_icons-true&theme=dracula&include_all_commits=truelcount_private=true"/> 
+  <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenKlim&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 
