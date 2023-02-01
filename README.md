@@ -8,7 +8,6 @@
 
 <h3 align="center">⚡ My Skills </h3>
 
-
 <h3 align="center">Programming Languagens</h3>
 <div align="center"><br>
     <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python" title="python" width="40" height="40" style="max-width: 100%;"></a>
