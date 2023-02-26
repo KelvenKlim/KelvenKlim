@@ -1,4 +1,8 @@
-<h1 align="center"> Hello! I'm Kelven Prasad 🖖</h1>
+<h1 align="center"> Hello, World! 🚀</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Kelven+Prasad;+Test+developer+QA+Dev;Welcome!!!+🖖)](https://git.io/typing-svg)
+
+
 <h3 align="center"> A test developer passionate about technology and coffee</h3>
 
 <h5 align="center">👨‍💻 today I work mainly with automated testing...</h5>
@@ -55,9 +59,9 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KelvenKlim&theme=dracula"
             alt="KelvenKlim" />
 </div>
-<br>
 <hr>
-
+<br>
+    
 <h3 align="center">Connect with me</h3>
 
 <div align="center">
