@@ -12,12 +12,13 @@
 <div align="center"><br>
     <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python" title="python" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.java.com/en/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" title="java" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
 <h3 align="center"> Testing tools Skill</h3>
 <div align="center">
     <a href="https://www.selenium.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="selenium" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://www.cypress.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" title="cypress" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.cypress.io/" rel="nofollow"> <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="cypress" title="cypress" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://mochajs.org/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" title="mocha" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://insomnia.rest/download" rel="nofollow"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" title="insomnia" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://postman.com" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40" style="max-width: 100%;"></a>
@@ -32,7 +33,7 @@
 
 <h3 align="center">Mobile Development</h3>
 <div align="center">
-     <a href="https://flutter.dev/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="android" width="40" height="40" style="max-width: 100%;"></a>
+     <a href="https://flutter.dev/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="flutter" width="40" height="40" style="max-width: 100%;"></a>
      <a href="https://developer.android.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148980830-df0f3af2-50b8-4bb2-9301-668e8f459abb.png" alt="android" title="android" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
