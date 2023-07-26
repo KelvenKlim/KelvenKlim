@@ -1,12 +1,12 @@
 <h1 align="center"> Hello, World! 🚀</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Kelven+Prasad;+Test+developer+QA+Dev;Welcome!!!+🖖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Kelven+Prasad;+QA+Engineer;Welcome!!!+🖖)](https://git.io/typing-svg)
 
 
 <h3 align="center"> A test developer passionate about technology and coffee</h3>
 
 <h5 align="center">👨‍💻 today I work mainly with automated testing...</h5>
-<h5 align="center">📚 I'm studying web development and python...</h5>
+<h5 align="center">📚 I'm studying web development, cypress.io and python...</h5>
 <h5 align="center">😄 Pronouns: he/his...</h5>
 <br>
 
