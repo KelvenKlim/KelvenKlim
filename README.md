@@ -1,52 +1,65 @@
 <h1 align="center"> Hello, World! 🚀</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Kelven+Prasad;+QA+Engineer;Welcome!!!+🖖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Kelven+Prasad;SDET+%7C+QA+Automation+Engineer;Financial+Services+Quality+Specialist;Building+smarter+testing+%F0%9F%A4%96)](https://git.io/typing-svg)
 
+<h3 align="center">🏦 SDET · QA Automation · Financial Services</h3>
 
-<h3 align="center"> A test developer passionate about technology and coffee</h3>
-
-<h5 align="center">👨‍💻 today I work mainly with automated testing...</h5>
-<h5 align="center">📚 I'm studying web development, cypress.io and python...</h5>
-<h5 align="center">😄 Pronouns: he/his...</h5>
+<h5 align="center">🤖 Designing and building test automation frameworks for financial products</h5>
+<h5 align="center">⚙️ SDET with strong background in software development applied to quality engineering</h5>
+<h5 align="center">📋 US/TS analysis · Test strategy · Risk-based testing in regulated environments</h5>
+<h5 align="center">🔌 Developing MCP servers to accelerate and enhance test automation workflows</h5>
+<h5 align="center">😄 Pronouns: he/his</h5>
 <br>
 
-<h3 align="center">⚡ My Skills </h3>
+<h3 align="center">⚡ Tech Stack</h3>
 
-<h3 align="center">Programming Languagens</h3>
+<h3 align="center">Programming Languages</h3>
 <div align="center"><br>
-    <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python" title="python" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://www.java.com/en/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" title="java" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
-<h3 align="center"> Testing tools Skill</h3>
+<h3 align="center">QA Automation — Web & E2E</h3>
 <div align="center">
-    <a href="https://www.selenium.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="selenium" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://www.cypress.io/" rel="nofollow"> <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="cypress" title="cypress" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://mochajs.org/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" title="mocha" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://insomnia.rest/download" rel="nofollow"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" title="insomnia" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://postman.com" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://playwright.dev/" rel="nofollow"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" title="Playwright" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.cypress.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="cypress" title="Cypress" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.selenium.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://robotframework.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robotframework/robotframework-original.svg" alt="robotframework" title="Robot Framework" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
-<h3 align="center"> Web Development</h3>
+<h3 align="center">QA Automation — API & Backend</h3>
 <div align="center">
-     <a href="https://angular.io/" rel="nofollow"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angula" title="angula" width="40" height="40" style="max-width: 100%;"></a>
-     <a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://docs.pytest.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" title="Pytest (API REST)" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/core/testing/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp-tests" title="C# Backend Tests" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://postman.com" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://insomnia.rest/download" rel="nofollow"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" title="Insomnia" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
-<h3 align="center">Mobile Development</h3>
+<h3 align="center">Quality Engineering & Tooling</h3>
 <div align="center">
-     <a href="https://flutter.dev/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="flutter" width="40" height="40" style="max-width: 100%;"></a>
-     <a href="https://developer.android.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148980830-df0f3af2-50b8-4bb2-9301-668e8f459abb.png" alt="android" title="android" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://git-scm.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" title="MariaDB / SQL" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
-<h3 align="center">Others Skills</h3> 
-<div align="center">
-     <a href="https://git-scm.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40" style="max-width: 100%;"></a>
-     <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="40" height="40" style="max-width: 100%;"></a>
-     <a href="https://www.linux.org/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" title="mariadb" width="40" height="40" style="max-width: 100%;"></a>
-  </div>
+<br>
+
+<h3 align="center">🔌 MCP for Test Automation</h3>
+<p align="center">Building <strong>Model Context Protocol (MCP)</strong> servers to supercharge AI-assisted test automation — from intelligent test generation and US/TS analysis to smart defect triage in financial services pipelines.</p>
+
+<hr>
+<br>
+
+<h3 align="center">📌 What I Do</h3>
+<p align="center">
+  🏦 &nbsp;<strong>Financial Services QA</strong> — quality assurance in regulated, high-stakes environments<br>
+  🤖 &nbsp;<strong>Test Automation</strong> — web (Playwright, Cypress, Selenium), API (Pytest, C#), BDD (Robot Framework)<br>
+  🛠️ &nbsp;<strong>SDET</strong> — software development supporting the QA lifecycle: tooling, frameworks, internal libraries<br>
+  📋 &nbsp;<strong>Quality Analysis</strong> — US/TS review, test strategy, risk-based coverage, shift-left practices<br>
+  🔌 &nbsp;<strong>MCP Development</strong> — custom MCP servers to integrate AI into test automation workflows<br>
+</p>
 <hr>
 <br>
 
